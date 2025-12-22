@@ -4,6 +4,19 @@
 
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/neel.ae" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://www.linkedin.com/in/neel-gadekar-018248243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://discord.gg/YOURINVITECODE" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+  </a>
+</p>
 
 ## 🧑‍💻 About Me
 - 🎓 IT Diploma Graduate  

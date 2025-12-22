@@ -10,7 +10,7 @@
 - 📱 Android Developer (Java + XML)  
 - 🤖 AI / ML / GenAI Explorer  
 - 🌐 Learning Full Stack (MERN)  
-- 🇯🇵 JLPT Aspirant (Japan Dream ✨)  
+- 🇯🇵 JLPT Aspirant (Currently studing n3 ✨)  
 
 ---
 

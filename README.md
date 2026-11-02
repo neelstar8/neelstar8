@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="NEEL//OS — Neel Gadekar · AI Engineer · GenAI Builder · Full-Stack · Android"/>
+<img src="./header.svg" width="100%" alt="NEEL//OS — Neel Gadekar · AI Engineer · GenAI Builder · Full-Stack · Android"/>
 
 <a href="https://www.linkedin.com/in/neel-gadekar-018248243"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="mailto:neelgadekar9@gmail.com"><img src="https://img.shields.io/badge/GMAIL-TRANSMIT-FF2BD6?style=for-the-badge&logo=gmail&logoColor=FF2BD6&labelColor=0D1117" alt="Email"/></a>
@@ -25,19 +25,19 @@
 
 <br/>
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal boot sequence: identity, class, guild, stats, modules and quests load, then the status line — open to Summer 2027 internships"/>
+<img src="./terminal.svg" width="100%" alt="Terminal boot sequence: identity, class, guild, stats, modules and quests load, then the status line — open to Summer 2027 internships"/>
 
 > [!TIP]
 > **🛰️ STATUS — OPEN TO SUMMER 2027 INTERNSHIPS** · SDE · AI/ML · GenAI · Full-Stack<br/>
 > B.Tech Computer Engineering @ K.J. Somaiya College of Engineering · graduating **May 2028** · ping → **neelgadekar9@gmail.com**
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <a name="player"></a>
 
 ## `0x01` · 👾 PLAYER CARD
 
-<img src="./assets/player-card.svg" width="100%" alt="Player card: class AI Engineer, guild KJSCE, CGPA 9.08, diploma 90.88%, skill-matrix radar and six unlocked achievements"/>
+<img src="./player-card.svg" width="100%" alt="Player card: class AI Engineer, guild KJSCE, CGPA 9.08, diploma 90.88%, skill-matrix radar and six unlocked achievements"/>
 
 ```yaml
 # ~/saves/neel.sav — autosaved
@@ -53,13 +53,13 @@ looking_for:  Summer 2027 internship  # SDE · AI/ML · GenAI
 motto:        "First build the skill. Recognition follows."
 ```
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <a name="quests"></a>
 
 ## `0x02` · ⚔️ QUEST LOG
 
-<img src="./assets/quest-map.svg" width="100%" alt="Campaign map: 2023 Diploma in IT, 2024 Android intern, 2025 B.Tech at KJSCE, 2026 blockchain intern, now AI intern at CodeAlpha, 2027 internship slot open"/>
+<img src="./quest-map.svg" width="100%" alt="Campaign map: 2023 Diploma in IT, 2024 Android intern, 2025 B.Tech at KJSCE, 2026 blockchain intern, now AI intern at CodeAlpha, 2027 internship slot open"/>
 
 ```diff
 @@ ACTIVE QUEST @@
@@ -83,7 +83,7 @@ motto:        "First build the skill. Recognition follows."
 + Diploma in Information Technology · Vidyalankar Polytechnic ······ 2023 → 2025 · 90.88%
 ```
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <a name="missions"></a>
 
@@ -127,7 +127,7 @@ Chrome extension that reads market trend, volume confirmation and price action, 
 | 📊 [**Trade Analyzer**](https://github.com/neelstar8?tab=repositories&q=trade) | AI-powered market insights | 🧾 [**QR Attendance**](https://github.com/neelstar8?tab=repositories&q=attendance) | QR-code attendance tracking |
 | 🌊 [**Suraksha Coast**](https://github.com/neelstar8?tab=repositories&q=suraksha) | Coastal safety platform | 🔍 [**Code Guard**](https://github.com/neelstar8?tab=repositories&q=guard) | AI plagiarism detection |
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <a name="skills"></a>
 
@@ -164,7 +164,7 @@ NEEL//SKILL_TREE ─────────────────────
   <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,idea,npm,pnpm&perline=10" alt="Vercel, Netlify, VS Code, IntelliJ IDEA, npm, pnpm"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <a name="achievements"></a>
 
@@ -194,7 +194,7 @@ NEEL//SKILL_TREE ─────────────────────
 - [ ] Publish Android apps on the Play Store
 - [ ] Deploy AI at scale · contribute more to open source
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <a name="telemetry"></a>
 
@@ -232,7 +232,7 @@ NEEL//SKILL_TREE ─────────────────────
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="End of transmission — continue? [Y/n]"/>
+<img src="./footer.svg" width="100%" alt="End of transmission — continue? [Y/n]"/>
 
 <img src="https://komarev.com/ghpvc/?username=neelstar8&label=PLAYERS%20ENCOUNTERED&color=00F7FF&style=for-the-badge" alt="Profile views"/>
 

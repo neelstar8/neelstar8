@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" role="img" aria-labelledby="title desc">
+<title id="title">Quest log — campaign map</title>
+<desc id="desc">Timeline: Diploma in IT (2023), Android intern (2024), B.Tech at KJSCE (2025), blockchain intern (2026), AI intern at CodeAlpha (now), Summer 2027 internship (open).</desc>
+<style>
+text{font-family:'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.flow{animation:flow 1.2s linear infinite}@keyframes flow{to{stroke-dashoffset:-48}}.future{animation:future 2s linear infinite}@keyframes future{to{stroke-dashoffset:-28}}
+.mk{animation:mk 8s linear infinite}@keyframes mk{0%{transform:translateX(-496px);opacity:0}5%{opacity:1}78%{transform:translateX(0)}92%{transform:translateX(0);opacity:1}100%{transform:translateX(0);opacity:0}}
+.h0{animation:h0 8s linear infinite}@keyframes h0{0%,0.4%{opacity:0}1%{opacity:.9}9%,100%{opacity:0}}
+.h1{animation:h1 8s linear infinite}@keyframes h1{0%,18.9%{opacity:0}19.5%{opacity:.9}27.5%,100%{opacity:0}}
+.h2{animation:h2 8s linear infinite}@keyframes h2{0%,38.4%{opacity:0}39%{opacity:.9}47%,100%{opacity:0}}
+.h3{animation:h3 8s linear infinite}@keyframes h3{0%,57.9%{opacity:0}58.5%{opacity:.9}66.5%,100%{opacity:0}}
+.h4{animation:h4 8s linear infinite}@keyframes h4{0%,77.4%{opacity:0}78%{opacity:.9}86%,100%{opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;}}
+</style>
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FFFFFF" fill-opacity="0.035"/></pattern><filter id="soft" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="1.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="trackGrad" gradientUnits="userSpaceOnUse" x1="110" y1="0" x2="606" y2="0"><stop offset="0" stop-color="#00F7FF"/><stop offset="1" stop-color="#39FF14"/></linearGradient><clipPath id="frame"><polygon points="14,0 826,0 840,14 840,326 826,340 14,340 0,326 0,14"/></clipPath><radialGradient id="mapGlow" cx="0.5" cy="0.5" r="0.6"><stop offset="0" stop-color="#00F7FF" stop-opacity="0.06"/><stop offset="1" stop-color="#00F7FF" stop-opacity="0"/></radialGradient></defs>
+<g clip-path="url(#frame)">
+<rect width="840" height="340" fill="#070B12"/>
+<rect width="840" height="340" fill="url(#mapGlow)"/>
+<polygon points="24,14 33,22 24,30" fill="#00F7FF"/>
+<text x="40" y="28" font-size="13" xml:space="preserve" letter-spacing="3"><tspan fill="#00F7FF" font-weight="700">QUEST LOG</tspan><tspan fill="#5C6B7A"> // CAMPAIGN MAP</tspan></text>
+<text x="816" y="28" font-size="11" xml:space="preserve" text-anchor="end" letter-spacing="1"><tspan fill="#5C6B7A">CHAPTER 05 </tspan><tspan fill="#39FF14" font-weight="700">▸ IN PROGRESS</tspan></text>
+<rect x="24" y="44" width="792" height="1" fill="#1B2636"/>
+<line x1="60" y1="172" x2="790" y2="172" stroke="#1B2636" stroke-width="4" stroke-linecap="round"/>
+<rect x="110" y="170.5" width="496" height="3" fill="url(#trackGrad)" filter="url(#soft)"/>
+<line class="flow" x1="110" y1="172" x2="606" y2="172" stroke="#FFFFFF" stroke-opacity="0.55" stroke-dasharray="2 10"/>
+<line class="future" x1="606" y1="172" x2="790" y2="172" stroke="#FF2BD6" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="6 8"/>
+<g class="mk"><rect x="572" y="171" width="30" height="2" fill="#EAFBFF" fill-opacity="0.35"/><polygon points="606,164 614,172 606,180 598,172" fill="#EAFBFF" filter="url(#soft)"/></g>
+<circle class="h0" cx="110" cy="172" r="22" fill="#00F7FF" fill-opacity="0.18" stroke="#00F7FF" stroke-opacity="0.7" opacity="0"/>
+<circle cx="110" cy="172" r="13" fill="#0B1120" stroke="#00F7FF" stroke-width="2"/><circle cx="110" cy="172" r="5" fill="#00F7FF" filter="url(#soft)"/>
+<text x="110" y="66" font-size="10.5" xml:space="preserve" text-anchor="middle" letter-spacing="1"><tspan fill="#00F7FF" font-weight="700">2023 ▸ SPAWN POINT</tspan></text>
+<text x="110" y="84" font-size="13" xml:space="preserve" text-anchor="middle"><tspan fill="#EAFBFF" font-weight="700">Diploma in IT</tspan></text>
+<text x="110" y="102" font-size="11.5" xml:space="preserve" text-anchor="middle"><tspan fill="#C9D1D9">Vidyalankar Polytechnic</tspan></text>
+<text x="110" y="120" font-size="11" xml:space="preserve" text-anchor="middle"><tspan fill="#5C6B7A">Score 90.88%</tspan></text>
+<line x1="110" y1="128" x2="110" y2="154" stroke="#00F7FF" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+<circle class="h1" cx="234" cy="172" r="22" fill="#00F7FF" fill-opacity="0.18" stroke="#00F7FF" stroke-opacity="0.7" opacity="0"/>
+<circle cx="234" cy="172" r="13" fill="#0B1120" stroke="#00F7FF" stroke-width="2"/><circle cx="234" cy="172" r="5" fill="#00F7FF" filter="url(#soft)"/>
+<text x="234" y="232" font-size="10.5" xml:space="preserve" text-anchor="middle" letter-spacing="1"><tspan fill="#00F7FF" font-weight="700">2024 ▸ SIDE QUEST</tspan></text>
+<text x="234" y="250" font-size="13" xml:space="preserve" text-anchor="middle"><tspan fill="#EAFBFF" font-weight="700">Android Dev Intern</tspan></text>
+<text x="234" y="268" font-size="11.5" xml:space="preserve" text-anchor="middle"><tspan fill="#C9D1D9">Java · Firebase · Git</tspan></text>
+<text x="234" y="286" font-size="11" xml:space="preserve" text-anchor="middle"><tspan fill="#5C6B7A">May → Jul 2024</tspan></text>
+<line x1="234" y1="190" x2="234" y2="218" stroke="#00F7FF" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+<circle class="h2" cx="358" cy="172" r="22" fill="#00F7FF" fill-opacity="0.18" stroke="#00F7FF" stroke-opacity="0.7" opacity="0"/>
+<circle cx="358" cy="172" r="13" fill="#0B1120" stroke="#00F7FF" stroke-width="2"/><circle cx="358" cy="172" r="5" fill="#00F7FF" filter="url(#soft)"/>
+<text x="358" y="66" font-size="10.5" xml:space="preserve" text-anchor="middle" letter-spacing="1"><tspan fill="#00F7FF" font-weight="700">2025 ▸ LEVEL UP</tspan></text>
+<text x="358" y="84" font-size="13" xml:space="preserve" text-anchor="middle"><tspan fill="#EAFBFF" font-weight="700">B.Tech Computer Eng.</tspan></text>
+<text x="358" y="102" font-size="11.5" xml:space="preserve" text-anchor="middle"><tspan fill="#C9D1D9">K.J. Somaiya · KJSCE</tspan></text>
+<text x="358" y="120" font-size="11" xml:space="preserve" text-anchor="middle"><tspan fill="#5C6B7A">CGPA 9.08</tspan></text>
+<line x1="358" y1="128" x2="358" y2="154" stroke="#00F7FF" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+<circle class="h3" cx="482" cy="172" r="22" fill="#00F7FF" fill-opacity="0.18" stroke="#00F7FF" stroke-opacity="0.7" opacity="0"/>
+<circle cx="482" cy="172" r="13" fill="#0B1120" stroke="#00F7FF" stroke-width="2"/><circle cx="482" cy="172" r="5" fill="#00F7FF" filter="url(#soft)"/>
+<text x="482" y="232" font-size="10.5" xml:space="preserve" text-anchor="middle" letter-spacing="1"><tspan fill="#00F7FF" font-weight="700">2026 ▸ QUEST CLEARED</tspan></text>
+<text x="482" y="250" font-size="13" xml:space="preserve" text-anchor="middle"><tspan fill="#EAFBFF" font-weight="700">Blockchain Intern</tspan></text>
+<text x="482" y="268" font-size="11.5" xml:space="preserve" text-anchor="middle"><tspan fill="#C9D1D9">Ethereum · DApps · Web3</tspan></text>
+<text x="482" y="286" font-size="11" xml:space="preserve" text-anchor="middle"><tspan fill="#5C6B7A">Mar → Jul 2026</tspan></text>
+<line x1="482" y1="190" x2="482" y2="218" stroke="#00F7FF" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+<circle class="h4" cx="606" cy="172" r="22" fill="#39FF14" fill-opacity="0.18" stroke="#39FF14" stroke-opacity="0.7" opacity="0"/>
+<circle cx="606" cy="172" r="14" fill="none" stroke="#39FF14" stroke-width="2"><animate attributeName="r" values="14;28" dur="1.8s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="606" cy="172" r="14" fill="#0B1120" stroke="#39FF14" stroke-width="2.5"/><circle cx="606" cy="172" r="6" fill="#39FF14" filter="url(#soft)"/>
+<text x="606" y="66" font-size="10.5" xml:space="preserve" text-anchor="middle" letter-spacing="1"><tspan fill="#39FF14" font-weight="700">NOW ▸ ACTIVE QUEST</tspan></text>
+<text x="606" y="84" font-size="13" xml:space="preserve" text-anchor="middle"><tspan fill="#EAFBFF" font-weight="700">AI Intern @ CodeAlpha</tspan></text>
+<text x="606" y="102" font-size="11.5" xml:space="preserve" text-anchor="middle"><tspan fill="#C9D1D9">NLP · Chatbots · APIs</tspan></text>
+<text x="606" y="120" font-size="11" xml:space="preserve" text-anchor="middle"><tspan fill="#5C6B7A">Remote</tspan></text>
+<line x1="606" y1="128" x2="606" y2="154" stroke="#39FF14" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+<circle cx="730" cy="172" r="14" fill="#0B1120"/><circle cx="730" cy="172" r="14" fill="none" stroke="#FF2BD6" stroke-width="2" stroke-dasharray="4 4"><animateTransform attributeName="transform" type="rotate" from="0 730 172" to="360 730 172" dur="8s" repeatCount="indefinite"/></circle><text x="730" y="177" font-size="14" xml:space="preserve" text-anchor="middle"><tspan fill="#FF2BD6" font-weight="700">?</tspan></text>
+<text x="730" y="232" font-size="10.5" xml:space="preserve" text-anchor="middle" letter-spacing="1"><tspan fill="#FF2BD6" font-weight="700">2027 ▸ LOCKED</tspan></text>
+<text x="730" y="250" font-size="13" xml:space="preserve" text-anchor="middle"><tspan fill="#EAFBFF" font-weight="700">Summer Internship</tspan></text>
+<text x="730" y="268" font-size="11.5" xml:space="preserve" text-anchor="middle"><tspan fill="#C9D1D9">SDE · AI/ML · GenAI</tspan></text>
+<text x="730" y="286" font-size="11" xml:space="preserve" text-anchor="middle"><tspan fill="#FF2BD6" font-weight="700">Slot open — your team?</tspan></text>
+<line x1="730" y1="190" x2="730" y2="218" stroke="#FF2BD6" stroke-opacity="0.45" stroke-dasharray="2 3"/>
+<rect x="24" y="304" width="792" height="1" fill="#1B2636"/>
+<circle cx="30" cy="318" r="4.5" fill="#00F7FF"/><text x="40" y="322" font-size="10" xml:space="preserve" letter-spacing="1.5"><tspan fill="#5C6B7A">CLEARED</tspan></text>
+<circle cx="122" cy="318" r="4.5" fill="none" stroke="#39FF14" stroke-width="2"/><text x="132" y="322" font-size="10" xml:space="preserve" letter-spacing="1.5"><tspan fill="#5C6B7A">ACTIVE</tspan></text>
+<circle cx="206" cy="318" r="4.5" fill="none" stroke="#FF2BD6" stroke-width="1.6" stroke-dasharray="2 2"/><text x="216" y="322" font-size="10" xml:space="preserve" letter-spacing="1.5"><tspan fill="#5C6B7A">LOCKED</tspan></text>
+<text x="816" y="322" font-size="10" xml:space="preserve" text-anchor="end" letter-spacing="1.5"><tspan fill="#5C6B7A">NEXT SAVE </tspan><tspan fill="#FF2BD6" font-weight="700">▸ SUMMER 2027</tspan></text>
+<rect width="840" height="340" fill="url(#scan)"/>
+</g>
+<polygon points="14,0 826,0 840,14 840,326 826,340 14,340 0,326 0,14" fill="none" stroke="#00F7FF" stroke-opacity="0.4" transform="translate(0.5 0.5) scale(0.999 0.997)"/>
+</svg>
